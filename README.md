@@ -6,7 +6,7 @@ This project is dedicated to obtaining insights from medicine data using a RAG a
 git clone https://github.com/Nabs2000/medicine_rag.git
 ```
 
-2. Download the data from the following links: 
+2. Download the data from the following links and store them in the `data` directory: 
 - [Medicine Data (CSV)](https://www.kaggle.com/datasets/ujjwalaggarwal402/medicine-dataset)
 - [Amoxicillin Data (PDF)](https://en.wikipedia.org/wiki/Amoxicillin)
 
